@@ -1,0 +1,55 @@
+.app-container {
+  min-height: 100vh;
+  background-color: #121217;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.message {
+  font-size: 1.1rem;
+  color: #e2e8f0;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2d2d3a;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3d3d4a;
+}
+
+/* Smooth transitions */
+* {
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Focus styles */
+button:focus,
+input:focus,
+select:focus {
+  outline: none;
+  ring: 2px;
+  ring-color: #9966cb;
+}
+
+/* Dark mode gradients */
+.gradient-lavender-mint {
+  background: linear-gradient(90deg, #9966cb 0%, #43D0B9 100%);
+}
+
+/* Dark mode card styles */
+.dark-card {
+  background-color: #1a1a1f;
+  border: 1px solid #2a2a35;
+}
