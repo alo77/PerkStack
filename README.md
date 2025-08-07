@@ -8,7 +8,7 @@
 
 ## 🎥 Demo Video
 
-[![Watch the Promo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://youtu.be/your_video_id)  
+[![Watch the Promo](images/PerkStackDemoUser.png)](https://youtube.com/shorts/X35YlTp14Hg?feature=share)  
 ➡️ _Click to watch the 90-second walkthrough!_
 
 ---
@@ -41,7 +41,7 @@ npm run dev
 
 ## 🗺️ Architecture Overview
 
-![Architecture Diagram](https://yourdomain.com/path-to-architecture-diagram.png) <!-- Replace with architecture diagram -->
+```![Architecture Diagram](https://yourdomain.com/path-to-architecture-diagram.png) <!-- Replace with architecture diagram -->```
 
 1. **Frontend** – Vite + React + Tailwind
 2. **Backend** – Node.js + Express/Fastify + Prisma
