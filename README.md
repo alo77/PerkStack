@@ -1,6 +1,6 @@
 # 🧱 PerkStack – The Developer-First Customer Loyalty Platform
 
-![PerkStack Banner](https://yourdomain.com/path-to-banner.png) <!-- Replace with your actual banner image -->
+![PerkStack Banner](images/demo-banner.png.png) <!-- Replace with your actual banner image -->
 
 **PerkStack** helps you build, test, and deploy powerful loyalty systems with full control over data, logic, and infrastructure. Whether you're shipping for SaaS, e-commerce, or mobile apps—PerkStack gives you everything you need to go from prototype to production in weeks.
 
