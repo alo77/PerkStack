@@ -8,7 +8,7 @@
 
 ## 🎥 Demo Video
 
-[![Watch the Promo](images/PerkStackDemoUser.png)](https://youtube.com/shorts/X35YlTp14Hg?feature=share)  
+[![Watch the Promo](images/PerkStackDemoUser.png)](https://share.synthesia.io/0458546a-6d94-4c5f-9d43-f2bbb2c0654b)  
 ➡️ _Click to watch the 90-second walkthrough!_
 
 ---
